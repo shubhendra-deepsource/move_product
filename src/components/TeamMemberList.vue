@@ -8,22 +8,20 @@ section
 </template>
 
 <script>
-
-import TeamMemberCard from './TeamMemberCard.vue'
+import TeamMemberCard from "./TeamMemberCard.vue";
 
 export default {
-    name: 'TeamMemberList',
+    name: "TeamMemberList",
     props: {
         teamMembers: {
             type: Object,
-            required: true
-        }
+            required: true,
+        },
     },
     components: {
-        TeamMemberCard
-    }
-}
-
+        TeamMemberCard,
+    },
+};
 </script>
 
 <style scoped lang="stylus">
@@ -33,5 +31,4 @@ export default {
     display: flex
     flex-flow: row wrap
     justify-content: space-evenly
-
 </style>
