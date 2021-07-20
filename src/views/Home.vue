@@ -55,18 +55,14 @@ button
 button:hover
     cursor: pointer
     background-color: #303030
-
 </style>
 
 <script>
-
 // @ is an alias to /src
 // import HelloWorld from '@/components/HelloWorld.vue'
 
 export default {
-    name: 'Home',
-    components: {
-    }
-}
-
+    name: "Home",
+    components: {},
+};
 </script>
