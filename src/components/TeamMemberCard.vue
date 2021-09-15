@@ -15,17 +15,15 @@ ul.team-member-card
 </template>
 
 <script>
-
 export default {
-    name: 'TeamMemberCard',
+    name: "TeamMemberCard",
     props: {
         teamMember: {
             type: Object,
-            required: true
-        }
-    }
-}
-
+            required: true,
+        },
+    },
+};
 </script>
 
 <style scoped lang="stylus">
@@ -44,5 +42,4 @@ ul.team-member-card
         font-size: 0.8rem
     button
         margin: 2rem 0
-
 </style>
