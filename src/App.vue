@@ -45,19 +45,16 @@ button
     background-color       : #000000
     color                  : #ffffff
     font-family            : "Red Hat Text", sans-serif
-
 </style>
 
 <script>
-
 // @ is an alias to /src
-import Home from '@/views/Home.vue'
+import Home from "@/views/Home.vue";
 
 export default {
-    name: 'app',
+    name: "app",
     components: {
-        Home
-    }
-}
-
+        Home,
+    },
+};
 </script>
