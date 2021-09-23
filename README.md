@@ -1,3 +1,5 @@
+[![DeepSource](https://deepsource.io/gh/shubhendra-deepsource/move_product.svg/?label=active+issues&show_trend=true&token=4nVQPrLWXnsMZT6N0GzkMQZm)](https://deepsource.io/gh/shubhendra-deepsource/move_product/?ref=repository-badge) [![DeepSource](https://deepsource.io/gh/shubhendra-deepsource/move_product.svg/?label=resolved+issues&show_trend=true&token=4nVQPrLWXnsMZT6N0GzkMQZm)](https://deepsource.io/gh/shubhendra-deepsource/move_product/?ref=repository-badge)
+
 ![move_product homepage](screenshots/move_product_homepage.png "move_product homepage")
 *ABOVE: Sample product homepage using `vue-router`*
 
